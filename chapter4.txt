@@ -1,1 +1,1 @@
-Now, I can push my projects files to github.
+Now, I can push my projects files to github using git add, git commit, git push commands. Hope, it helps!
